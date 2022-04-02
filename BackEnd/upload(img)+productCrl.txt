@@ -1,0 +1,21 @@
+http://localhost:5000/api/upload 
+{
+    "public_id": "test/veuc4crmre6x6plrr0xq",
+    "url": "https://res.cloudinary.com/dfwjwwcvl/image/upload/v1646680625/test/veuc4crmre6x6plrr0xq.jpg"
+}
+
+
+localhost:5000/api/products
+{
+    "product_id":"pro-1",
+    "title":"Sony Xperia 5 III",
+    "price":"100",
+    "description":"product-decp-1",
+    "content":"phone-1",
+     "images":{
+    "public_id": "test/veuc4crmre6x6plrr0xq",
+    "url": "https://res.cloudinary.com/dfwjwwcvl/image/upload/v1646680625/test/veuc4crmre6x6plrr0xq.jpg"
+},
+    "category":"SONY"
+}
+

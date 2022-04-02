@@ -1,0 +1,22 @@
+http://localhost:5000/user/login
+
+{
+    "name":"user-0306",
+    "email":"user-0306@gmail.com",
+    "password":"03060306"
+}
+
+
+http://localhost:5000/api/category
+
+{
+    "name":"category-0306"
+    
+}
+
+處理Category 使用 
+{
+    "name":"admin",
+    "email":"admin123@gmail.com",
+    "password":"admin123"
+}
